@@ -6,3 +6,4 @@ Here you will find ANY files with my Javascript ES6 training that I find useful.
 3) <b>F&O: </b> Review of new ways to use functions and objects in ES6. You can se content that includes <l>fat arrow syntax, destructuring assignment, generators, iterators.</l> 
 4) <b>Asynchronic: </b> Promises, loading data with fetch method.
 5) <b>Asynchronic_2: </b> Async and await, async with fetch. (Important content)
+6) <b>Classes: </b> Getters & Setters.
