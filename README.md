@@ -7,3 +7,4 @@
 4) <b>Asynchronic: </b> Promises, loading data with fetch method.
 5) <b>Asynchronic_2: </b> Async and await, async with fetch. (Important content)
 6) <b>Classes: </b> Getters & Setters.
+7) <b>More content soon</b>
