@@ -8,3 +8,6 @@
 5) <b>Asynchronic_2: </b> Async and await, async with fetch. (Important content)
 6) <b>Classes: </b> Getters & Setters.
 7) <b>More content soon</b>
+
+# Codility excercises:
+1) <b>BinaryGap:</b> Find longest sequence of zeros in binary representation of an integer.
