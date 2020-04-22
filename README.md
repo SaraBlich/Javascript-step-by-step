@@ -10,5 +10,6 @@
 7) <b>More content soon</b>
 
 # Codility excercises:
+<b>Here you will find files with JavaScript solutions of Codility training.</b>
 1) <b>BinaryGap:</b> Find longest sequence of zeros in binary representation of an integer.
 2) <b>oddOccurrencesInArray.js:</b> Find value that occurs in odd number of elements.
