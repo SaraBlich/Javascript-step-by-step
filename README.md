@@ -17,3 +17,4 @@
 4) <b>FrogJmp:</b> Count minimal number of jumps from position X to Y.
 5) <b>PermMissingElem:</b> Find the missing element in a given permutation.
 6) <b>PermCheck:</b> Check whether array A is a permutation.
+7) <b>Distinct:</b> Compute number of distinct values in an array.
