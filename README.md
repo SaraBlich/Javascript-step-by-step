@@ -15,3 +15,4 @@
 2) <b>oddOccurrencesInArray:</b> Find value that occurs in odd number of elements.
 3) <b>CyclicRotation:</b> Rotate an array to the right by a given number of steps.
 4) <b>FrogJmp:</b> Count minimal number of jumps from position X to Y.
+5) <b>PermMissingElem:</b> Find the missing element in a given permutation.
