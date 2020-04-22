@@ -1,0 +1,19 @@
+function solution(X, Y, D) {
+    // write your code in JavaScript (Node.js 8.9.4)
+    var frogDist = 0;
+    var stillToGo = Y-X
+    var froggyJumps = 0;
+    if (Y>X)
+    {
+        for(i = 0; frogDist<=stillToGo; i++)
+        {
+            frogDist += D;
+            froggyJumps++;
+        }
+    }
+    else
+    {
+        return 'Bad way froggie'
+    }
+    return froggyJumps;
+}
