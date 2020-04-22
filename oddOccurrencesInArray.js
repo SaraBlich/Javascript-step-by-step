@@ -1,13 +1,10 @@
 function solution(A) {
-    // write your code in JavaScript (Node.js 4.0.0)
-    
-    var agg = 0;
-    
-    for(var i=0; i<A.length; i++) {
-        agg =  agg ^ A[i];
+    // write your code in JavaScript (Node.js 8.9.4)
+    var ret;
+    for (var i = 0; i<A.length; i++)
+    {
+        ret = ret ^ A[i]
+        
     }
-    
-    return agg;
+    return ret;
 }
-
-solution([2, 3, 3, 1, 2, 9, 9])
