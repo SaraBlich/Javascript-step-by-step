@@ -18,3 +18,4 @@
 5) <b>PermMissingElem:</b> Find the missing element in a given permutation.
 6) <b>PermCheck:</b> Check whether array A is a permutation.
 7) <b>Distinct:</b> Compute number of distinct values in an array.
+8) <b>Triangle: </b> Determine whether a triangle can be built from a given set of edges.
